@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    margin: 200px 0 0 500px;
+    text-align: center;
+    justify-content: space-between;
+    border-radius: 20px 20px 20px 20px;
+    background-color: aqua;
+}
+.inputfield{
+    width: 80%;
+    margin-top: 30px;
+    padding: 10px 0;
+}
+.info{
+    margin-top: 30px;
+}
+.info h2{
+    margin: 10px 0;
+}
+.errormsg{
+    margin: 30px;
+    font-size: 25px;
+}
